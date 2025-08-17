@@ -1,2 +1,2 @@
 # EV-Charging-Management-System
-This project provides a relational database schema and SQL procedures for managing an Electric Vehicle (EV) Charging Station. It is designed to handle vehicle information, charging slots, tariffs, requests, and automated cost/slot allocation.
+A relational SQL database for managing an EV Charging Station, including vehicles, charging slots, tariffs, and customer requests. The system supports automated slot allocation with SOC checks, dynamic tariff-based cost calculation, and safe transaction handling. 
